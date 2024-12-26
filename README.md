@@ -68,7 +68,7 @@ Y= A⊕B
 
 **PROGRAM**
 
-![Screenshot (7)](https://github.com/user-attachments/assets/d030d565-995b-4f44-8900-3e4474ea61c7)
+![Screenshot (14)](https://github.com/user-attachments/assets/28c93be0-9994-4b42-8fe7-e1cff84de404)
 
 **LOGIC SYMBOL AND TRUTH TABLE**
 
